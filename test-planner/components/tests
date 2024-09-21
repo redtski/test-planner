@@ -1,0 +1,7 @@
+const arrayData = {tasks}
+const arrayObject = Object.assign({}, ...arrayData)
+
+
+task.title
+task.description
+task.status
